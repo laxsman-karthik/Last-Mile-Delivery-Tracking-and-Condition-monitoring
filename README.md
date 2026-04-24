@@ -114,19 +114,6 @@ Each alert includes:
 - Improved delivery safety  
 - Dashboard enabled route analysis  
 
-
-## Project Structure
-
-├── server.py  
-├── alert_dashboard.py  
-├── driver_app.py  
-├── esp32_code.ino  
-├── delivery.db  
-├── images/  
-│   └── architecture.png  
-└── README.md  
-
-
 ## How to Run
 
 ### 1. Start Flask Server
