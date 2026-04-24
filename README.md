@@ -44,7 +44,7 @@ The system integrates:
 ### Circuit Diagram
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/xxxxx/your-image.png](https://github.com/user-attachments/assets/cf7b6d5e-84d6-49a6-b97e-c6486e2f543e)" width="600"/>
+  <img src="https://github.com/user-attachments/assets/cf7b6d5e-84d6-49a6-b97e-c6486e2f543e" width="600"/>
 </p>
 
 ## Implementation
